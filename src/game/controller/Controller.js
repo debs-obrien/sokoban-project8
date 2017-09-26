@@ -16,6 +16,7 @@ function (
 	}
 
 
+
 	/**
 	 * Initialize the controller
 	 */

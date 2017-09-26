@@ -24,8 +24,8 @@ function (
 		];
 
 		// TODO: change me!
-		var localhost = 'http://localhost:8888/sokoban/bin/localization/';
-		var webhost = 'http://localhost:8888/sokoban/bin/localization/';
+		var localhost = 'http://localhost:8888/bin/localization/';
+		var webhost = 'http://localhost:8888/bin/localization/';
 		this.xliffPath = this.local ? localhost : webhost; // Path towards xliff files
 
 		/**
